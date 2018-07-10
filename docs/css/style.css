@@ -1,10 +1,12 @@
 body{
-    background-image: url("../img/bg1.jpg");
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/bg1.jpg") ;
     background-size: cover;
-    background-color: #cccccc;
     font-family: Raleway;
 }
 
-header{
-    /* max-height: 2em; */
+#promo{
+    background-color:white;
+    border:1px solid #ccc;
+    font-family: 'Cutive Mono', monospace;
+    font-weight:600;
 }
